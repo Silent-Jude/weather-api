@@ -1,0 +1,22 @@
+{
+  "name": "weather-api",
+  "version": "1.0.0",
+  "description": "天气demo的api子系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silent-Jude/weather-api.git"
+  },
+  "author": "tongzhipei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silent-Jude/weather-api/issues"
+  },
+  "homepage": "https://github.com/Silent-Jude/weather-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
